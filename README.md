@@ -8,6 +8,6 @@ migrate the default tables
 
 worked screenshots attached on screenshots folder.
 
-dummy data get saved on when hitting the url 127.0.0.1:8000/
+dummy data get saved on when hitting the url 127.0.0.1:8000/create/
 
-data listed on 127.0.0.1:8000/api/ (sample json get listed on with djangorestframework ui)
+data listed on 127.0.0.1:8000/show/ (sample json get listed on with djangorestframework ui)
